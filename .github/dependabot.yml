@@ -25,3 +25,4 @@ updates:
       # Synced with engines field in package.json
       - dependency-name: "@types/node"
         versions: [">=21"]
+
